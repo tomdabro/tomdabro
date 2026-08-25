@@ -10,7 +10,8 @@ I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I bu
 - **LLMs & agentic AI:** LLM-powered tools and agentic workflows with Anthropic, OpenAI, and local models via Ollama/MLX
 ## Currently learning
 
-- **Rust & WebAssembly:** building interactive web apps with Dioxus
+- **Power BI & data visualization:** dashboards and reporting on top of my data pipelines
+- **SQL:** deepening query skills — window functions, query optimization, and analytics
 - **Agentic AI workflows:** LLM-powered agents and automation with Claude, OpenAI, and local models
 - **Deep learning with PyTorch:** moving from classical ML into neural networks for imaging and omics data
 
