@@ -1,6 +1,6 @@
 # Hi, I'm Tom 👋
 
-I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I build **machine learning and computational biology pipelines** — from spatial transcriptomics and cell classification to homology search workflows — turning raw biological data into models, tools, and reproducible analysis. I was part of the [iGEM 2025 Lund Trashformers](https://2025.igem.wiki/lund/) project, engineering enzymes for PET degradation and upcycling.
+I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I build **machine learning and computational biology pipelines**, from spatial transcriptomics and cell classification to homology search workflows, turning raw biological data into models, tools, and reproducible analysis. I was part of the [iGEM 2025 Lund Trashformers](https://2025.igem.wiki/lund/) project, engineering enzymes for PET degradation and upcycling.
 
 ## Currently learning
 
