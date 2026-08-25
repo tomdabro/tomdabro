@@ -1,21 +1,13 @@
 # Hi, I'm Tom 👋
 
-I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I build **machine learning and computational biology pipelines** — from spatial transcriptomics and cell classification to homology search workflows — turning raw biological data into models, tools, and reproducible analysis.
+I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I build **machine learning and computational biology pipelines** — from spatial transcriptomics and cell classification to homology search workflows — turning raw biological data into models, tools, and reproducible analysis. I'm also part of [iGEM Lund Trashformers](https://2025.igem.wiki/lund/), engineering enzymes for PET degradation and upcycling.
 
-## Currently building
-
-- **Spatial biology & ML:** cell classification and spatial analysis of high-dimensional imaging/transcriptomics data
-- **Bioinformatics workflows:** homology search, sequence analysis, and scalable pipeline design
-- **Synthetic biology & protein design:** enzyme engineering for PET degradation and upcycling with [iGEM Lund Trashformers](https://2025.igem.wiki/lund/) — docking, ProteinMPNN redesign, and structure prediction
-- **LLMs & agentic AI:** LLM-powered tools and agentic workflows with Anthropic, OpenAI, and local models via Ollama/MLX
 ## Currently learning
 
 - **Power BI & data visualization:** dashboards and reporting on top of my data pipelines
 - **SQL:** deepening query skills — window functions, query optimization, and analytics
 - **Agentic AI workflows:** LLM-powered agents and automation with Claude, OpenAI, and local models
 - **Deep learning with PyTorch:** moving from classical ML into neural networks for imaging and omics data
-
-## My toolbox
 
 ## My toolbox
 
