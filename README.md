@@ -7,6 +7,7 @@ I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I bu
 - **Spatial biology & ML:** cell classification and spatial analysis of high-dimensional imaging/transcriptomics data
 - **Bioinformatics workflows:** homology search, sequence analysis, and scalable pipeline design
 - **Synthetic biology & protein design:** enzyme engineering for PET degradation and upcycling with [iGEM Lund Trashformers](https://2025.igem.wiki/lund/) — docking, ProteinMPNN redesign, and structure prediction
+- **LLMs & agentic AI:** LLM-powered tools and agentic workflows with Anthropic, OpenAI, and local models via Ollama/MLX
 - **Applied data science:** end-to-end pipelines from raw data to deployed model, with reproducibility as a first-class citizen
 
 ## 🛠️ Tech I work with
@@ -14,6 +15,8 @@ I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I bu
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apachegroovy&logoColor=white)
 
 **ML / DL:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![SHAP](https://img.shields.io/badge/-SHAP-2E8B57) ![ProteinMPNN](https://img.shields.io/badge/-ProteinMPNN-8A2BE2) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+
+**LLMs / GenAI:** ![Anthropic](https://img.shields.io/badge/-Anthropic-D4A27A?logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white) ![MLX](https://img.shields.io/badge/-MLX-1B1B1F) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 
 **Bioinformatics:** ![Biopython](https://img.shields.io/badge/-Biopython-3C873A?logo=biopython&logoColor=white) ![BLAST](https://img.shields.io/badge/-BLAST-2E86AB?logo=blast&logoColor=white) ![MMseqs2](https://img.shields.io/badge/-MMseqs2-6A5ACD) ![MAFFT](https://img.shields.io/badge/-MAFFT-1E90FF) ![Primer3](https://img.shields.io/badge/-Primer3-8B0000) ![hhblits](https://img.shields.io/badge/-hhblits-556B2F) ![scanpy](https://img.shields.io/badge/-scanpy-4B8BBE) ![SquidPy](https://img.shields.io/badge/-SquidPy-5F9EA0) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
