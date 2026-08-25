@@ -8,7 +8,13 @@ I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I bu
 - **Bioinformatics workflows:** homology search, sequence analysis, and scalable pipeline design
 - **Synthetic biology & protein design:** enzyme engineering for PET degradation and upcycling with [iGEM Lund Trashformers](https://2025.igem.wiki/lund/) — docking, ProteinMPNN redesign, and structure prediction
 - **LLMs & agentic AI:** LLM-powered tools and agentic workflows with Anthropic, OpenAI, and local models via Ollama/MLX
-- **Applied data science:** end-to-end pipelines from raw data to deployed model, with reproducibility as a first-class citizen
+## Currently learning
+
+- **Rust & WebAssembly:** building interactive web apps with Dioxus
+- **Agentic AI workflows:** LLM-powered agents and automation with Claude, OpenAI, and local models
+- **Deep learning with PyTorch:** moving from classical ML into neural networks for imaging and omics data
+
+## My toolbox
 
 ## My toolbox
 
