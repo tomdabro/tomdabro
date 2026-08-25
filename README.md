@@ -4,7 +4,10 @@ I'm a **data scientist and bioinformatics engineer** based in Lund, Sweden. I bu
 
 ## Currently learning (more)
 
-1: @theirs
+- **Power BI & data visualization:** dashboards and reporting on top of my data pipelines — because a good chart beats a thousand words
+- **SQL:** deepening query skills — window functions, query optimization and analytics (still writing `SELECT *` and calling it a day)
+- **Agentic AI workflows:** LLM-powered agents and automation with Claude and local models — training my replacement, one prompt at a time
+- **Deep learning with PyTorch:** moving from classical ML into neural networks for imaging and omics data — planned for later, right after I finish this README
 
 ## My toolbox
 
